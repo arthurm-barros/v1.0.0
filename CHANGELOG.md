@@ -1,0 +1,4 @@
+- Adição de dados iniciais
+- adição de textos referentes à branch feat-01
+- adição de textos referentes à branch feature/login
+- adição de textos referentes à branch feature/cadastro
